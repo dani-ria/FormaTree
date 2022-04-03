@@ -19,7 +19,6 @@
     <type fullname="UnityEngine.MeshFilter" preserve="all" />
     <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
-    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Industrial.Forma.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Unity.Industrial.Forma.Core.Variants.StaticBoolQueryNode" preserve="all" />
